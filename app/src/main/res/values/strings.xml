@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Quizzy</string>
+    <string name="not_register_yet">Not Register Yet!</string>
+    <string name="signup">SignUp</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender:</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="institute_name_hint">Institute Name</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="student_signup">Student SignUp</string>
+    <string name="teacher_signup">Teacher SignUp</string>
+    <string name="user_role">User Role:</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="validation_failed_message">Validation Failed! Please try again.</string>
+    <string name="field_empty_message">This field should not be empty!</string>
+    <string name="email_message">Email is not Valid!</string>
+    <string name="password_message">Password length should not be less than 6!</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading...</string>
+    <string name="something_wrong">Some thing went wrong. Please contact with developer</string>
+    <string name="login_successfull">Login Successful.</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>

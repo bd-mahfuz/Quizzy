@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1053980979866",
+    "firebase_url": "https://quizzy-def72.firebaseio.com",
+    "project_id": "quizzy-def72",
+    "storage_bucket": "quizzy-def72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053980979866:android:774e14962e105f60",
+        "android_client_info": {
+          "package_name": "com.example.mahfuz.quizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053980979866-2umaq1lk50knku1r82ka1uuer6o5akih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahfuz.quizzy",
+            "certificate_hash": "0fa9933f6bf87033bc12fcf5914aef7c39b73fe2"
+          }
+        },
+        {
+          "client_id": "1053980979866-un8dnhcj2314co0vbkich4035kv73bg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahfuz.quizzy",
+            "certificate_hash": "e2ee8807840a28d999e6251d961dde87a476e12d"
+          }
+        },
+        {
+          "client_id": "1053980979866-6hqh2gsqitra6uikals89sla5jrhhn0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qCP15jS1BAnHvcifFth0rfkCLDGpxY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053980979866-6hqh2gsqitra6uikals89sla5jrhhn0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
